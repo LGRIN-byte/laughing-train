@@ -45,7 +45,8 @@ public class MainActivity extends AppCompatActivity  { //implements View.OnConte
                                }
             else {
                 resultText.append(getButton.getText().toString());
-                }
+
+            }
         }
 
 
